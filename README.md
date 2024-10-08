@@ -1,5 +1,6 @@
 # Martin L. Miller  
 St. Paul, Minnesota | 551.574.2217 | [milleronic@gmail.com](mailto:milleronic@gmail.com) | [linkedin.com/in/milleronic](http://linkedin.com/in/milleronic) | [github.com/m-miller](http://github.com/m-miller)
+
 ---
 
 ## MERN/LAMP Senior Full Stack Developer  
