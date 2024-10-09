@@ -15,7 +15,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 
 ### **Professional Experiences:**  
 **March 2024 \- September 2024 | Lead Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota**  
-- Custom Shopify theme development for bespoke storefronts, including [BouGear](https://bougear.com).\
+- Custom Shopify theme development for bespoke storefronts, including [BouGear](https://bougear.com).
 - Code maintenance, refactoring, documentation, and debugging. Overall reduction of technical debt.
 - Development of new website features and implemented a new UI, which led to an increase in conversions.  
 - Developer team leadership and management.  
