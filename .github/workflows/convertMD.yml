@@ -31,7 +31,7 @@ jobs:
           # Read the plain text, create a JSON object for each non-empty line
           awk 'BEGIN {print "["} 
                NF {print "{\"text\": \"" $0 "\"},"} 
-               END {print "]"}' output/output.txt | sed '$ s/,$//' > output/output.json
+               END {print "]"}' output/output.txt | sed '$ s/,$//' > output/Martin_Miller_resume.json
 
       - name: Convert Markdown to PDF
         run: |
@@ -43,7 +43,7 @@ jobs:
           git config --local user.email "github-actions@github.com"
           
           # Add JSON output
-          git add output/output.json
+          git add output/Martin_Miller_resume.json
           # Add PDF output
           git add output/Martin_Miller_resume.pdf
           
