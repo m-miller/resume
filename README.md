@@ -1,4 +1,6 @@
 ---
+title: "Martin Miller resume"
+author: "Martin Miller"
 header-includes:
   - \usepackage{enumitem}
   - \setlist[itemize]{label=\textbullet}  # Customize bullet style
