@@ -1,4 +1,4 @@
-name: Convert Markdown to JSON
+name: Convert Markdown to Coherent JSON
 
 on:
   push:
@@ -16,22 +16,26 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install pandoc
+      - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc
+          sudo apt-get install -y pandoc jq
 
       - name: Convert Markdown to JSON
         run: |
           mkdir -p json_output
           pandoc README.md -t json -o json_output/output.json
 
+      - name: Process JSON to coherent blocks
+        run: |
+          jq -r '[.blocks[] | select(.t == "Para") | .c | join(" ") | {text: .}]' json_output/output.json > json_output/coherent_output.json
+
       - name: Commit JSON to repository
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add json_output/output.json
-          git commit -m "Add generated JSON from README" || echo "No changes to commit"
+          git add json_output/coherent_output.json
+          git commit -m "Add coherent JSON output from README" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
