@@ -1,4 +1,4 @@
-name: Convert Markdown to Coherent JSON
+name: Convert Markdown to Plain Text and JSON
 
 on:
   push:
@@ -21,21 +21,22 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc jq
 
-      - name: Convert Markdown to JSON
+      - name: Convert Markdown to Plain Text
         run: |
-          mkdir -p json_output
-          pandoc README.md -t json -o json_output/output.json
+          mkdir -p output
+          pandoc README.md -t plain -o output/output.txt
 
-      - name: Process JSON to coherent blocks
+      - name: Convert Plain Text to JSON
         run: |
-          jq -r '[.blocks[] | select(.t == "Para") | .c | join(" ") | {text: .}]' json_output/output.json > json_output/coherent_output.json
+          # Read the plain text, split into coherent blocks, and format as JSON
+          awk 'BEGIN {print "["} {print "{\"text\": \"" $0 "\"},"} END {print "]"}' output/output.txt | sed '$ s/,$//' > output/output.json
 
       - name: Commit JSON to repository
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add json_output/coherent_output.json
-          git commit -m "Add coherent JSON output from README" || echo "No changes to commit"
+          git add output/output.json
+          git commit -m "Add JSON output from README" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
