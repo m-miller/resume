@@ -1,0 +1,53 @@
+name: Convert Markdown to Plain Text, JSON, and PDF
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex fonts-roboto
+
+      - name: Convert Markdown to Plain Text
+        run: |
+          mkdir -p output
+          pandoc README.md -t plain -o output/output.txt
+
+      - name: Convert Plain Text to JSON
+        run: |
+          # Read the plain text, create a JSON object for each non-empty line
+          awk 'BEGIN {print "["} 
+               NF {print "{\"text\": \"" $0 "\"},"} 
+               END {print "]"}' output/output.txt | sed '$ s/,$//' > output/output.json
+
+      - name: Convert Markdown to PDF
+        run: |
+          pandoc README.md -o output/Martin_Miller_resume.pdf --pdf-engine=xelatex -V mainfont="Roboto" -V geometry:top=1in,bottom=1in,left=0.5in,right=0.5in -V linkcolor=blue
+
+      - name: Commit JSON and PDF to repository
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          
+          # Add JSON output
+          git add output/output.json
+          # Add PDF output
+          git add output/Martin_Miller_resume.pdf
+          
+          git commit -m "Add generated JSON and PDF from README" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
