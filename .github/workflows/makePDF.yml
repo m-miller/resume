@@ -1,28 +1,36 @@
-# .github/workflows/convert-to-pdf.yml
+name: Convert Markdown to PDF
 
-name: Docs to PDF
-# This workflow is triggered on pushes to the repository.
 on:
   push:
     branches:
       - main
-    # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
-    paths:
-      - 'README.md'
+  workflow_dispatch:
 
 jobs:
-  converttopdf:
-    name: Build PDF
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_dir: README.md
-          output_dir: ./PDF
-          build_html: false
-          build_pdf: true
-      - uses: actions/upload-artifact@v3
-        with:
-          name: Martin_Miller_resume.pdf
-          path: ./PDF
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex
+
+      - name: Convert Markdown to PDF
+        run: |
+          pandoc README.md -o output.pdf
+
+      - name: Commit PDF to repository
+        run: |
+          mkdir -p PDF
+          mv output.pdf pdfs/
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add PDF/Martin_Miller_resume.pdf
+          git commit -m "Add generated PDF from README"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
