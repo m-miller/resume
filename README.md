@@ -1,13 +1,16 @@
 # Martin L. Miller  
 St. Paul, Minnesota | 551.574.2217 | [milleronic@gmail.com](mailto:milleronic@gmail.com) | [linkedin.com/in/milleronic](http://linkedin.com/in/milleronic) | [github.com/m-miller](http://github.com/m-miller)
 
-## MERN/LAMP Senior Full Stack Developer  
-Full Stack Developer with over 10 years of experience. Focus on company growth and driving efficiency. WordPress and Shopify expert. Lifelong learner. 
+## MERN/LAMP Full Stack Developer 
+Full Stack Developer with over 10 years of experience. Focus on company growth and driving efficiency. WordPress and Shopify expert. Lifelong learner, creative problem solver. 
 
-**Technical Proficiencies:**  
-Adobe Creative Suite, AJAX, API integrations, Axios, Bash scripting/crontab, Bower, Composer, CSS3/SASS, Express, Flexbox/Grid/Bootstrap/Foundation/Tailwind, Git command line, github, github actions, gitlab, Grunt, Gulp, HubSpot, JavaScript/ES6/jQuery/TypeScript, Jira, Linux: CentOS, RHEL, Ubuntu, Fedora, Debian, Raspbian, Liquid, Marketo, MySQL/MariaDB/MongoDB, Nginx and Apache config, Node.js, OOP design patterns, PHP, Regular Expressions, Responsive design, SEO Optimization, Semantic HTML/Valid HTML, Shopify, Shopify CLI, Vagrant/VVV/VirtualBox/Flywheel, Webpack, WordPress Theme and Plugin Development, WP-CLI, XML/json, \*nix command line (ssh, scp, rsync, awk, sed, grep, et.al.)  
-**Moderately proficient in:** d3.js, Docker, Python, React  
-**Currently exploring:** AWS, Gatsby
+### **Technical Proficiencies:**
+**Languages and markup:** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, VB
+**Frameworks:** Bootstrap, Foundation, Tailwind, Node.js, React, jQuery, d3.js
+**Tools/CLI:** git, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI, WP-CLI, github Actions, regex, APIs, Docker, REST
+**Software:** Adobe Creative Suite, Jira, github, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode
+**OS:** CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows
+**CMS/EComm:** WordPress, WooCommerce, Shopify
 
 **Professional Experiences:**  
 **March 2024 \- September 2024 | Lead Web Developer | Merchology, Plymouth, Minnesota**  
