@@ -2,7 +2,7 @@
 St. Paul, Minnesota | 551.574.2217 | [milleronic@gmail.com](mailto:milleronic@gmail.com) | [linkedin.com/in/milleronic](http://linkedin.com/in/milleronic) | [github.com/m-miller](http://github.com/m-miller)
 
 ## MERN/LAMP Full Stack Developer 
-Full Stack Developer with over 10 years of experience. Focus on company growth and driving efficiency. WordPress and Shopify expert. Lifelong learner, creative problem solver. 
+Full Stack Developer with over 10 years of experience. Proven track record of driving growth through improving processes and efficiencies. WordPress and Shopify expert. Lifelong learner, creative problem solver. 
 
 ### **Technical Proficiencies:**
 **Languages and markup:** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB\
@@ -15,17 +15,18 @@ Full Stack Developer with over 10 years of experience. Focus on company growth a
 
 ### **Professional Experiences:**  
 **March 2024 \- September 2024 | Lead Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota**  
-* Custom Shopify theme development.  
-* Code maintenance, documentation, and debugging.  
-* Development of new website features.  
+* Custom Shopify theme development for bespoke storefronts, including [BouGear](https://bougear.com) 
+* Code maintenance, refactoring, documentation, and debugging. Overall reduction of technical debt. 
+* Development of new website features and implemented a new UI, which led to an increase in conversions.  
 * Developer team leadership and management.  
-* Through website improvements I increased sales efficiency and assisted sales growth from $50M to $72M over a two-year period.  
+* Through website improvements my efforts increased sales efficiency and assisted sales growth from $50M to $72M over a two-year period.  
 * Reduced internal customer friction and drove efficiency.
 
 **April 2022 \- March 2024 | Senior Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota**  
 * Custom Shopify theme development.  
 * Code maintenance and debugging.  
 * Development of new internal features for the sales department and external customers.
+* Improved internal processes by implementing github and github actions for the Merchandising Department's code updates (pricing scripts, product tag management, global variables)
 
 **September 2021 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) | Remote**  
 * Authored custom WordPress and WooCommerce themes, front- and back-end.  
