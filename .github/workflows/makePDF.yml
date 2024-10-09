@@ -19,10 +19,10 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: README.md
-          output_dir: PDF
+          output_dir: ./PDF
           build_html: false
           build_pdf: true
       - uses: actions/upload-artifact@v3
         with:
           name: Martin_Miller_resume.pdf
-          path: PDF
+          path: ./PDF
