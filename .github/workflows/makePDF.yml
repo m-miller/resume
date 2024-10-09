@@ -23,8 +23,7 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          pandoc README.md -o Martin_Miller_resume.pdf --pdf-engine=xelatex -V mainfont="Roboto" -V geometry:margin=1in
-
+          pandoc README.md -o Martin_Miller_resume.pdf --pdf-engine=xelatex -V mainfont="Roboto" -V geometry:top=1in,bottom=1in,left=0.5in,right=0.5in -V linkcolor=blue
       - name: Commit PDF to repository
         run: |
           mkdir -p PDF
