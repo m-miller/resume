@@ -28,10 +28,7 @@ jobs:
 
       - name: Convert Plain Text to JSON
         run: |
-          # Read the plain text, create a JSON object for each non-empty line
-          awk 'BEGIN {print "["} 
-               NF {print "{\"text\": \"" $0 "\"},"} 
-               END {print "]"}' output/output.txt | sed '$ s/,$//' > output/Martin_Miller_resume.json
+          python3 combine_lines.py
 
       - name: Convert Markdown to PDF
         run: |
