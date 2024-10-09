@@ -17,11 +17,11 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex
+          sudo apt-get install -y pandoc texlive-xetex fonts-roboto
 
       - name: Convert Markdown to PDF
         run: |
-          pandoc README.md -o Martin_Miller_resume.pdf
+          pandoc README.md -o Martin_Miller_resume.pdf --pdf-engine=xelatex -V mainfont="Roboto"
 
       - name: Commit PDF to repository
         run: |
