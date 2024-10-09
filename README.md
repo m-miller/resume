@@ -6,7 +6,6 @@ Full Stack Developer with over 10 years of experience. Focus on company growth a
 
 ### **Technical Proficiencies:**
 **Languages and markup:** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, VB
-
 **Frameworks:** Bootstrap, Foundation, Tailwind, Node.js, React, jQuery, d3.js
 
 **Tools/CLI:** git, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI, WP-CLI, github Actions, regex, APIs, Docker, REST
@@ -17,7 +16,7 @@ Full Stack Developer with over 10 years of experience. Focus on company growth a
 
 **CMS/EComm:** WordPress, WooCommerce, Shopify
 
-**Professional Experiences:**  
+### **Professional Experiences:**  
 **March 2024 \- September 2024 | Lead Web Developer | Merchology, Plymouth, Minnesota**  
 * Custom Shopify theme development.  
 * Code maintenance, documentation, and debugging.  
