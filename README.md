@@ -5,15 +5,16 @@ St. Paul, Minnesota | 551.574.2217 | [milleronic@gmail.com](mailto:milleronic@gm
 Full Stack Developer with over 10 years of experience. Focus on company growth and driving efficiency. WordPress and Shopify expert. Lifelong learner, creative problem solver. 
 
 ### **Technical Proficiencies:**
-**Languages and markup:** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, VB\
+**Languages and markup:** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB\
 **Frameworks:** Bootstrap, Foundation, Tailwind, Node.js, React, jQuery, d3.js\
-**Tools/CLI:** git, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI, WP-CLI, github Actions, regex, APIs, Docker, REST\
+**Tools/CLI:** git, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, github Actions, regex, Docker, REST\
 **Software:** Adobe Creative Suite, Jira, github, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode\
 **OS:** CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows\
-**CMS/EComm:** WordPress, WooCommerce, Shopify
+**CMS/EComm:** WordPress, WooCommerce, Shopify\
+**Other Skills:** SVG and CSS Animation, a11y/WCAG compliant coding practices, clear communicator. 
 
 ### **Professional Experiences:**  
-**March 2024 \- September 2024 | Lead Web Developer | Merchology, Plymouth, Minnesota**  
+**March 2024 \- September 2024 | Lead Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota**  
 * Custom Shopify theme development.  
 * Code maintenance, documentation, and debugging.  
 * Development of new website features.  
@@ -21,23 +22,23 @@ Full Stack Developer with over 10 years of experience. Focus on company growth a
 * Through website improvements I increased sales efficiency and assisted sales growth from $50M to $72M over a two-year period.  
 * Reduced internal customer friction and drove efficiency.
 
-**April 2022 \- March 2024 | Senior Web Developer | Merchology, Plymouth, Minnesota**  
+**April 2022 \- March 2024 | Senior Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota**  
 * Custom Shopify theme development.  
 * Code maintenance and debugging.  
 * Development of new internal features for the sales department and external customers.
 
-**September 2021 \- February 2022 | Full Stack WordPress Developer | PeTA Foundation | Remote**  
+**September 2021 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) | Remote**  
 * Authored custom WordPress and WooCommerce themes, front- and back-end.  
 * WordPress plugin development.  
 * Deployments using Webistrano and GitHub Actions.
 
-**May 2021 \- September 2021 | Full Stack WordPress Developer, Shopify Developer | R/West | Remote**  
+**May 2021 \- September 2021 | Full Stack WordPress Developer, Shopify Developer | [R/West](https://www.rwest.com/) | Remote**  
 * Authored custom WordPress plugins.  
 * Authored custom WordPress themes, front- and back-end development.  
 * Shopify cart and customizer development.  
 * Updated shopify pages.
 
-**March 2020 \- April 2021 | Full Stack WordPress Developer | Midwest Dental | Bloomington, Minnesota**  
+**March 2020 \- April 2021 | Full Stack WordPress Developer | [Midwest Dental](https://midwest-dental.com/) | Bloomington, Minnesota**  
 * Authored custom WordPress plugins.  
 * WordPress front- and back-end theme development for network of websites.  
 * Front-end development work.  
@@ -46,12 +47,12 @@ Full Stack Developer with over 10 years of experience. Focus on company growth a
 * Coded and implemented marketing emails.  
 * Upgraded sendgrid email security, spam filtering, and cloudflare integration.
 
-**June 2019 \- February 2020 | Web Developer | Enesco, Eden Prairie, Minnesota**  
+**June 2019 \- February 2020 | Web Developer | [Enesco](https://shop.enesco.com/), Eden Prairie, Minnesota**  
 * Shopify ecommerce theme customization for multiple sites.  
 * PHP development for Shopify API data to PeopleSoft database.  
 * Multiple website maintenance.
 
-**April 2016 \- February 2019 | Web Developer | Granicus | St. Paul, Minnesota**  
+**April 2016 \- February 2019 | Web Developer | [Granicus](https://granicus.com/) | St. Paul, Minnesota**  
 * Developed custom themes, custom plugins, frontend redesign and implementation for granicus.com, uk.granicus.com and govloop. com. Client-facing and customer interaction.  
 * Authored custom plugins for Eloqua API, Hubspot API, and Marketo API CRM integrations.  
 * Updated and repaired govloop.com, a 300,000 member buddypress and bbpress-enabled WordPress multisite network, including refactoring backend, frontend, plugins, and deployment mechanisms using composer, bower, grunt, SASS, and git post-deploy hooks for production and staging environments.  
@@ -60,7 +61,7 @@ Full Stack Developer with over 10 years of experience. Focus on company growth a
 * Managed/updated DNS records and SSL certificates as needed.  
 * Worked in Marketo to customize front-end forms and landing pages code for the Marketing Department.
 
-**June 2012 \- March 2016 | WordPress Developer| Mayo Clinic Department of Nursing | Rochester, Minnesota**  
+**June 2012 \- March 2016 | WordPress Developer| [Mayo Clinic](https://www.mayoclinic.org/) Department of Nursing | Rochester, Minnesota**  
 * Responsible for daily website maintenance including frontend and backend code.  
 * WordPress custom theme and plugin development, API and RESTful integration with Mayo intranet services (Active Directory, DB/2 databases, .NET and ColdFusion applications)  
 * Server administration including Bash and Python scripting, cronjobs, WP-CLI, and installation of MySQL, PHP, and WordPress.  
