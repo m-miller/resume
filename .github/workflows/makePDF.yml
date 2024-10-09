@@ -21,12 +21,12 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          pandoc README.md -o output.pdf
+          pandoc README.md -o Martin_Miller_resume.pdf
 
       - name: Commit PDF to repository
         run: |
           mkdir -p PDF
-          mv output.pdf pdfs/
+          mv Martin_Miller_resume.pdf PDF/
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add PDF/Martin_Miller_resume.pdf
