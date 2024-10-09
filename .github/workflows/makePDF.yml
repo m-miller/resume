@@ -21,6 +21,7 @@ jobs:
           input_dir: README.md
           output_dir: PDF
           build_html: false
+          build_pdf: true
       - uses: actions/upload-artifact@v3
         with:
           name: Martin_Miller_resume.pdf
