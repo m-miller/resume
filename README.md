@@ -61,7 +61,7 @@ Full Stack Developer with over 10 years of experience. Focus on company growth a
 * Managed/updated DNS records and SSL certificates as needed.  
 * Worked in Marketo to customize front-end forms and landing pages code for the Marketing Department.
 
-**June 2012 \- March 2016 | WordPress Developer| [Mayo Clinic](https://www.mayoclinic.org/) Department of Nursing | Rochester, Minnesota**  
+**June 2012 \- March 2016 | WordPress Developer | [Mayo Clinic](https://www.mayoclinic.org/) Department of Nursing | Rochester, Minnesota**  
 * Responsible for daily website maintenance including frontend and backend code.  
 * WordPress custom theme and plugin development, API and RESTful integration with Mayo intranet services (Active Directory, DB/2 databases, .NET and ColdFusion applications)  
 * Server administration including Bash and Python scripting, cronjobs, WP-CLI, and installation of MySQL, PHP, and WordPress.  
