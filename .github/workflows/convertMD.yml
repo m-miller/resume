@@ -30,9 +30,9 @@ jobs:
         run: |
           python3 combine_lines.py
 
-      - name: Convert Markdown to PDF
+      - name: Convert Markdown to PDF and docx
         run: |
-          echo -e "\n\n\n*This PDF was dynamically generated from a markdown file at https://github.com/m-miller/resume/ via a GitHub Action.*" >> output/temp_footer.md
+          echo -e "\n\n\n*This document was dynamically generated from a markdown file at https://github.com/m-miller/resume/ via a GitHub Action.*" >> output/temp_footer.md
           cat README.md output/temp_footer.md > output/combined.md
           pandoc output/combined.md -o output/Martin_Miller_resume.pdf --pdf-engine=xelatex -V mainfont="Roboto" -V geometry:top=0.5in,bottom=0.5in,left=0.5in,right=0.5in -V linkcolor=blue
           pandoc output/combined.md -o output/Martin_Miller_resume.docx
@@ -46,8 +46,10 @@ jobs:
           git add output/Martin_Miller_resume.json
           # Add PDF output
           git add output/Martin_Miller_resume.pdf
+          # Add docx output
+          git add output/Martin_Miller_resume.docx
           
-          git commit -m "Add generated JSON and PDF from README" || echo "No changes to commit"
+          git commit -m "Add generated files from README" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
