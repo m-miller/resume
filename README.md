@@ -88,7 +88,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 
 #### April 2016 \- February 2019 | Web Developer | [Granicus](https://granicus.com/) | St. Paul, Minnesota 
 
-- Developed custom themes, custom plugins, frontend redesign and implementation for granicus.com, uk.granicus.com and govloop.com. Client-facing and customer interaction.
+- Developed custom themes, custom plugins, frontend redesign and implementation for [granicus.com](https://granicus.com), [uk.granicus.com](https://granicus.uk) and [govloop.com](https://govloop.com). Client-facing and customer interaction.
     
 - Authored custom plugins for Eloqua API, Hubspot API, and Marketo API CRM integrations.
     
