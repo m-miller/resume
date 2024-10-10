@@ -22,7 +22,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
   
 - Development of new website features and implemented a new UI, which led to an increase in conversions.
     
-- Developer team leadership and management.
+- Developer team leadership and management, conducted reviews, stand-ups, and regular 1:1 meetings.
    
 - Through website improvements my efforts increased sales efficiency, reduced customer friction, and assisted sales growth from $50M to $72M over a two-year period.
    
