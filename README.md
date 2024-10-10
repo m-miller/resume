@@ -14,7 +14,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 **Other Skills:** SVG and CSS Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum. 
 
 ### **Professional Experiences:**  
-**March 2024 \- September 2024 | Lead Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota** 
+#### March 2024 \- September 2024 | Lead Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota 
 
 - Custom Shopify theme development for bespoke storefronts, including [BouGear](https://bougear.com).
   
@@ -29,7 +29,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 - Submitted and completed over 1000 Jira tickets during my tenure at Merchology.
 
 
-**April 2022 \- March 2024 | Senior Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota** 
+#### April 2022 \- March 2024 | Senior Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota 
 
 - Custom Shopify theme development.
     
@@ -40,7 +40,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 - Improved internal processes by implementing a GitHub code repository and GitHub Actions for the Merchandising Department's code updates (pricing scripts, product tag management, global variables).
 
 
-**September 2021 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) | Remote** 
+#### September 2021 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) | Remote
 
 - Authored custom WordPress and WooCommerce themes, front- and back-end.
     
@@ -49,7 +49,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 - Deployments using Webistrano and GitHub Actions.
 
 
-**May 2021 \- September 2021 | Full Stack WordPress Developer, Shopify Developer | [R/West](https://www.rwest.com/) | Remote**
+#### May 2021 \- September 2021 | Full Stack WordPress Developer, Shopify Developer | [R/West](https://www.rwest.com/) | Remote
 
 - Authored custom WordPress plugins.
     
@@ -60,7 +60,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 - Updated shopify pages.
 
 
-**March 2020 \- April 2021 | Full Stack WordPress Developer | [Midwest Dental](https://midwest-dental.com/) | Bloomington, Minnesota** 
+#### March 2020 \- April 2021 | Full Stack WordPress Developer | [Midwest Dental](https://midwest-dental.com/) | Bloomington, Minnesota 
 
 - Authored custom WordPress plugins.
     
@@ -77,7 +77,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 - Upgraded sendgrid email security, spam filtering, and cloudflare integration.
 
 
-**June 2019 \- February 2020 | Web Developer | [Enesco](https://shop.enesco.com/), Eden Prairie, Minnesota** 
+#### June 2019 \- February 2020 | Web Developer | [Enesco](https://shop.enesco.com/), Eden Prairie, Minnesota 
 
 - Shopify ecommerce theme customization for multiple sites.
     
@@ -86,7 +86,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 - Multiple website maintenance.
 
 
-**April 2016 \- February 2019 | Web Developer | [Granicus](https://granicus.com/) | St. Paul, Minnesota** 
+#### April 2016 \- February 2019 | Web Developer | [Granicus](https://granicus.com/) | St. Paul, Minnesota 
 
 - Developed custom themes, custom plugins, frontend redesign and implementation for granicus.com, uk.granicus.com and govloop.com. Client-facing and customer interaction.
     
@@ -103,7 +103,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 - Worked in Marketo to customize front-end forms and landing pages code for the Marketing Department.
 
 
-**June 2012 \- March 2016 | WordPress Developer | [Mayo Clinic](https://www.mayoclinic.org/) Department of Nursing | Rochester, Minnesota** 
+#### June 2012 \- March 2016 | WordPress Developer | [Mayo Clinic](https://www.mayoclinic.org/) Department of Nursing | Rochester, Minnesota 
 
 - Responsible for daily website maintenance including frontend and backend code.
     
