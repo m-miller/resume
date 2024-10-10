@@ -27,6 +27,9 @@
     "text": "-   Custom Shopify theme development for bespoke storefronts, including BouGear."
   },
   {
+    "text": "-   Extensive usage of the Shopify Storefront and Admin APIs using a GraphQL interface."
+  },
+  {
     "text": "-   Code maintenance, refactoring, documentation, and debugging. Overall reduction of technical debt."
   },
   {
