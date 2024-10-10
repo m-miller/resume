@@ -6,7 +6,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
 
 ### **Technical Proficiencies:**
 **Languages and markup:** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB.\
-**Frameworks:** Bootstrap, Foundation, Tailwind, Node.js, React, jQuery, d3.js.\
+**Frameworks:** Bootstrap, Foundation, Tailwind, Node.js, React, Gutenberg, jQuery, d3.js.\
 **Tools/CLI:** git, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST.\
 **Software:** Adobe Creative Suite, Jira, GitHub, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM.\
 **OS:** CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows.\
@@ -57,9 +57,7 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
     
 - Authored custom WordPress themes, front- and back-end development.
     
-- Shopify cart and customizer development.
-    
-- Updated shopify pages.
+- Shopify cart and admin customizer development.
 
 
 #### March 2020 \- April 2021 | Full Stack WordPress Developer | [Midwest Dental](https://midwest-dental.com/) | Bloomington, Minnesota 
