@@ -34,7 +34,7 @@ jobs:
         run: |
           echo -e "\n\nThis PDF was dynamically generated from a markdown file at https://github.com/m-miller/resume/ via a GitHub Action." >> output/temp_footer.md
           cat README.md output/temp_footer.md > output/combined.md
-          pandoc output/combined.md -o output/Martin_Miller_resume.pdf --pdf-engine=xelatex -V mainfont="Roboto" -V geometry:top=1in,bottom=1in,left=0.5in,right=0.5in -V linkcolor=blue
+          pandoc output/combined.md -o output/Martin_Miller_resume.pdf --pdf-engine=xelatex -V mainfont="Roboto" -V geometry:top=0.5in,bottom=0.5in,left=0.5in,right=0.5in -V linkcolor=blue
 
       - name: Commit JSON and PDF to repository
         run: |
