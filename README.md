@@ -30,6 +30,8 @@ Full Stack Developer with over 10 years of experience. Proven track record of dr
    
 - Submitted and completed over 1000 Jira tickets during my tenure at Merchology.
 
+- Chaired the Giveback Committee, an employee-managed group that coordinated and scheduled volunteer activities for Merchology employees. Collectively we worked over 1000 hours in 2023.
+
 
 #### April 2022 \- March 2024 | Senior Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota 
 
