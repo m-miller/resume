@@ -5,7 +5,7 @@ St. Paul, Minnesota | 551.574.2217 | [milleronic@gmail.com](mailto:milleronic@gm
 Full Stack Developer with over 10 years of experience. Proven track record of driving growth through improving processes and efficiencies. WordPress and Shopify expert. Lifelong learner, creative problem solver. Big-picture thinker with an attention to detail.
 
 ### **Technical Proficiencies:**
-**Languages and markup:** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB.\
+**Languages and markup:** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS/SASS/LESS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB.\
 **Frameworks:** Bootstrap, Foundation, Tailwind, Node.js, React, Gutenberg, jQuery, d3.js.\
 **Tools/CLI:** git, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST.\
 **Software:** Adobe Creative Suite, Jira, GitHub, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM.\
