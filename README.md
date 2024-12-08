@@ -98,11 +98,11 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
     
 - Implemented WP-CFM
     
-- Assisted in updating server environment for govloop.com to F5-enabled redundant webservers/replicated database servers and job server on a CentOS server cluster
+- Updated server environment for govloop.com to F5-enabled redundant webservers/replicated database servers and job server on a CentOS server cluster
     
-- Managed/updated DNS records and SSL certificates as needed
+- Updated DNS records and SSL certificates as needed
     
-- Worked in Marketo to customize front-end forms and landing pages code for the Marketing Department
+- Leveraged Marketo to customize front-end forms and landing pages code for the Marketing Department
 
 
 #### June 2012 \- March 2016 | WordPress Developer | [Mayo Clinic](https://www.mayoclinic.org/) Department of Nursing | Rochester, Minnesota 
