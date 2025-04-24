@@ -4,16 +4,23 @@ St. Paul, Minnesota | 651.272.8921 | [milleronic@gmail.com](mailto:milleronic@gm
 ## MERN/LAMP Full Stack Developer 
 Experienced Full Stack Developer with expertise in crafting innovative solutions that drive business growth. Adept at optimizing workflows, enhancing system efficiencies, and delivering high-impact digital experiences, blending technical expertise with a creative approach to problem-solving. Passionate about continuous learning, with a strong ability to think strategically while maintaining meticulous attention to detail.
 
-### **Technical Proficiency**
+### **Technical Proficiencies**
 **Languages and markup** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS/SASS/LESS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB\
-**Frameworks** Bootstrap, Foundation, Tailwind, Node.js, React, Gutenberg, jQuery, d3.js\
-**Tools/CLI** git, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST\
-**Software** Adobe Creative Suite, Jira, GitHub, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM\
+**Cloud Platforms** Azure App Service, Azure DevOps, Digital Ocean\
+**Frameworks** Bootstrap, Foundation, Tailwind, Rivet (Indiana University CSS framework), Node.js, React, Gutenberg, jQuery, d3.js\
+**Tools/CLI** git CLI, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST\
+**Software** Adobe Creative Suite, SharePoint, Jira, GitHub, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM\
 **OS** CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows\
-**CMS/EComm** WordPress, WooCommerce, Shopify\
+**CMS/EComm** WordPress, WooCommerce, Shopify, Cascade\
 **Other Skills** SVG and CSS Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum 
 
-### **Professional Experience**  
+### **Professional Experiences**
+#### March 2025 \- Present | Web Developer | [Indiana University](https://iu.edu/), Bloomington, Indiana (remote contract)
+
+- Developed bespoke reusable components for IU website CMS (Cascade), using Velocity, HTML/CSS, PHP, JavaScript, and Node
+  
+- Architected component framework best practices for implementation
+
 #### March 2024 \- September 2024 | Lead Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota 
 
 - Custom Shopify theme development for bespoke storefronts, including [BouGear](https://bougear.com)
