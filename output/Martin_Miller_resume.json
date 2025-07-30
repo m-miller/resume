@@ -9,25 +9,37 @@
     "text": "MERN/LAMP Full Stack Developer"
   },
   {
-    "text": "Experienced Full Stack Developer with expertise in crafting innovative solutions that drive business growth. Adept at optimizing workflows, enhancing system efficiencies, and delivering high-impact digital experiences, blending technical expertise with a creative approach to problem-solving. Passionate about continuous learning, with a strong ability to think strategically while maintaining meticulous attention to detail."
+    "text": "Experienced Full Stack Developer with expertise in crafting innovative solutions that drive business growth. Adept at optimizing workflows, enhancing system efficiencies, and delivering high-impact digital experiences, blending technical expertise with a creative approach to problem-solving. Passionate about continuous learning, with a strong ability to think strategically and creatively while maintaining meticulous attention to detail."
   },
   {
     "text": "Technical Proficiencies"
   },
   {
-    "text": "Languages and markup JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS/SASS/LESS, XML, JSON, YAML, Bash/ZSH, markdown, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB Cloud Platforms Azure App Service, Azure DevOps, Digital Ocean Frameworks Bootstrap, Foundation, Tailwind, Rivet (Indiana University CSS framework), Node.js, React, Gutenberg, jQuery, d3.js Tools/CLI git CLI, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST Software Adobe Creative Suite, SharePoint, Jira, GitHub, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM OS CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows CMS/EComm WordPress, WooCommerce, Shopify, Cascade Other Skills SVG and CSS Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum"
+    "text": "Languages and markup JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS/SASS/LESS, XML, JSON, YAML, Bash/ZSH, markdown, Perl, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB Cloud Platforms Azure App Service, Azure DevOps, Digital Ocean, Heroku Frameworks/Libraries Bootstrap, Foundation, Tailwind, Rivet (Indiana University CSS framework), Node.js, React, Gutenberg, jQuery, d3.js, Highcharts Tools/CLI git CLI, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST Software Adobe Creative Suite, SharePoint, Jira, GitHub, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM OS CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows CMS/EComm WordPress, WooCommerce, Shopify, Cascade Other Skills SVG and CSS Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum"
+  },
+  {
+    "text": "Personal Projects*"
+  },
+  {
+    "text": "Genealogical Family Tree d3.js based family tree view. mongodb data source exporting to a flat JSON file for d3 ingestion. Customized dTree.js to allow multiple/sequential marriages and children milleronic.com Work in progress Scheduling Web Application for Restaurant MERN stack, outputs suggested weekly schedule based on employee availability and experience level. Exports suggested schedule to Google Sheet based on daily labor percentages against morning and afternoon sales projections and adjusted for past sales values. Full editing in the React frontend for employee data and restaurant needs. Dynamic algorithm for schedule creation based on employee availablity, labor costs, labor needs, and current and past sales projections. Work in progress Cat Photoblog WordPress photoblog of my past pet cats. Custom theme. Kitties!"
   },
   {
     "text": "Professional Experiences"
   },
   {
-    "text": "March 2025 - Present | Web Developer | Indiana University, Bloomington, Indiana (remote contract)"
+    "text": "March 2025 - August 2025 | Web Developer | Indiana University, Bloomington, Indiana (remote contract)"
   },
   {
-    "text": "-   Developed bespoke reusable components for IU website CMS (Cascade), using Velocity, HTML/CSS, PHP, JavaScript, and Node"
+    "text": "-   Developed bespoke reusable extensions for IU website(s) CMS (Cascade) for frontend display, using Velocity, HTML/CSS, XML, PHP, JavaScript, MS-SDK, MicroSoft Graph API"
   },
   {
-    "text": "-   Architected component framework best practices for implementation"
+    "text": "-   Extensions included dynamic data visualization (Highcharts), WordPress blog feeds, SharePoint Lists (Azure MicroSoft Graph API and MS-SDK), LiveWhale Feeds (Calendars), dynamic custom JavaScript filters, and IU-hosted web framework automations"
+  },
+  {
+    "text": "-   Architected extension components best practices for implementation"
+  },
+  {
+    "text": "-   Extensive use of github actions and CI/CD deployment automations"
   },
   {
     "text": "March 2024 - September 2024 | Lead Web Developer | Merchology, Plymouth, Minnesota"
@@ -52,6 +64,9 @@
   },
   {
     "text": "-   Submitted and completed over 1000 Jira tickets during my tenure at Merchology"
+  },
+  {
+    "text": "-   Regular team standups and mentoring of developers"
   },
   {
     "text": "-   Chaired the Giveback Committee, an employee-managed group that coordinated and scheduled volunteer activities for Merchology employees. Collectively we volunteered over 1000 hours in 2023"
@@ -162,15 +177,18 @@
     "text": "-   Responsible for daily website maintenance including frontend and backend code"
   },
   {
-    "text": "-   WordPress custom theme and plugin development, API and RESTful integration with Mayo intranet services (Active Directory, DB/2 databases, .NET and ColdFusion applications)"
+    "text": "-   WordPress custom theme and plugin development, API and REST integration with Mayo intranet services (Active Directory, DB/2 databases, .NET and ColdFusion applications)"
   },
   {
-    "text": "-   Server administration including Bash and Python scripting, cronjobs, WP-CLI, and installation of MySQL, PHP, and WordPress"
+    "text": "-   Server administration including Bash and Python scripting, cronjobs, WP-CLI, and commandline installation of MySQL, PHP, and WordPress"
   },
   {
-    "text": "-   Integration and management of analytics software (Awstats and Piwik), for the Nursing Intranet"
+    "text": "-   Installation and management of analytics software (Awstats and Piwik), for the Nursing Intranet"
   },
   {
     "text": "-   Mentored junior members in versioning code via git and WordPress development and best practices"
+  },
+  {
+    "text": "-   WordPress training for website admins and authors"
   }
 ]
