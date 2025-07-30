@@ -2,7 +2,7 @@
 St. Paul, Minnesota | 651.272.8921 | [milleronic@gmail.com](mailto:milleronic@gmail.com) | [linkedin.com/in/milleronic](http://linkedin.com/in/milleronic) | [github.com/m-miller](http://github.com/m-miller)
 
 ## MERN/LAMP Full Stack Developer
-Experienced Full Stack Developer with expertise in crafting innovative solutions that drive business growth. Adept at optimizing workflows, enhancing system efficiencies, and delivering high-impact digital experiences, blending technical expertise with a creative approach to problem-solving. Passionate about continuous learning, with a strong ability to think strategically and creatively while maintaining meticulous attention to detail.
+Experienced Full Stack Developer with expertise in crafting innovative solutions that drive business growth. Adept at optimizing workflows, enhancing and automating system efficiencies, and delivering high-impact digital experiences, blending technical expertise with a creative approach to problem-solving. Passionate about continuous learning, with a strong ability to think strategically and creatively while maintaining meticulous attention to detail. Skilled, personal communicator and relationship builder who enjoys educating juniors and peers.
 
 ### **Technical Proficiencies**
 **Languages and markup** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS/SASS/LESS, XML, JSON, YAML, Bash/ZSH, markdown, Perl, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB\
