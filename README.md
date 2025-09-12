@@ -22,7 +22,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 **Website Password Unobfuscator** JavaScript snippet when bookmarked in a browser will show any password in a password field. Can come in handy :) [undot](https://github.com/m-miller/undot)
 
 ### **Professional Experiences**
-#### March 2025 \- August 2025 | Web Developer | [Indiana University](https://iu.edu/), Bloomington, Indiana (remote contract)
+#### March 17, 2025 \- September 17, 2025 | Web Developer | [Indiana University](https://iu.edu/), Bloomington, Indiana (remote contract)
 
 - Developed bespoke reusable extensions for IU website(s) CMS (Cascade) for frontend display, using Velocity, HTML/CSS, XML, PHP, JavaScript, MS-SDK, MicroSoft Graph API, custom css for Highcharts animations
 
