@@ -12,7 +12,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 **Software** Adobe Creative Suite, SharePoint, Jira, GitHub, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM\
 **OS** CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows\
 **CMS/EComm** WordPress, WooCommerce, Shopify, Cascade\
-**Other Skills** SVG and CSS Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum  
+**Other Skills** SVG, CSS, and JavaScript Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum  
 
 ### **Personal Projects**
 **Genealogical Family Tree** d3.js based family tree view. mongodb data source exporting to a JSON file for d3 ingestion. Customized dTree.js to allow multiple/sequential marriages and children [milleronic.com](http://milleronic.com) Work in progress\
@@ -24,7 +24,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 ### **Professional Experiences**
 #### March 2025 \- August 2025 | Web Developer | [Indiana University](https://iu.edu/), Bloomington, Indiana (remote contract)
 
-- Developed bespoke reusable extensions for IU website(s) CMS (Cascade) for frontend display, using Velocity, HTML/CSS, XML, PHP, JavaScript, MS-SDK, MicroSoft Graph API
+- Developed bespoke reusable extensions for IU website(s) CMS (Cascade) for frontend display, using Velocity, HTML/CSS, XML, PHP, JavaScript, MS-SDK, MicroSoft Graph API, custom css for Highcharts animations
 
 - Extensions included dynamic data visualization (Highcharts), WordPress blog feeds, SharePoint Lists (Azure MicroSoft Graph API and MS-SDK), LiveWhale Feeds (Calendars), dynamic custom JavaScript filters, and IU-hosted web framework automations
   
@@ -40,7 +40,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
   
 - Code maintenance, refactoring, documentation, and debugging. Overall reduction of technical debt
   
-- Development of new website features and implemented a new UI, which led to an increase in conversions
+- Development of new website features and implemented a new UI, which led to an increase in conversions. Developed bespoke SVG and CSS animations for product selection and shipping options
     
 - Developer team leadership and management, conducted reviews, stand-ups, and regular 1:1 meetings
    
@@ -79,7 +79,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
     
 - Authored custom WordPress themes, front- and back-end development
     
-- Shopify cart and admin customizer development
+- Shopify cart and admin customizer development. Custom SVG and CSS animations in the Shopify checkout for volume discount pricing
 
 
 #### March 2020 \- April 2021 | Full Stack WordPress Developer | [Midwest Dental](https://midwest-dental.com/) | Bloomington, Minnesota 
