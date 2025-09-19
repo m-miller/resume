@@ -8,8 +8,8 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 **Languages and markup** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS/SASS/LESS, XML, JSON, YAML, Bash/ZSH, markdown, Perl, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB\
 **Cloud Platforms** Azure App Service, Azure DevOps, Digital Ocean, Heroku\
 **Frameworks/Libraries** Bootstrap, Foundation, Tailwind, Rivet (Indiana University CSS framework), Laravel, Magento, Node.js, React, Gutenberg, jQuery, d3.js, Highcharts\
-**Tools/CLI** git CLI, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST\
-**Software** Adobe Creative Suite, SharePoint, Jira, GitHub, HubSpot, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM\
+**Tools/CLI** git CLI, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST, SOAP\
+**Software** Adobe Creative Suite, SharePoint, Jira, GitHub, HubSpot, Salesforce, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM\
 **OS** CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows\
 **CMS/EComm** WordPress, WooCommerce, Shopify, Cascade\
 **Other Skills** SVG, CSS, and JavaScript Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum  
