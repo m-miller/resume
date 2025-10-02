@@ -14,13 +14,6 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 **CMS/EComm** WordPress, WooCommerce, Shopify, Cascade\
 **Other Skills** SVG, CSS, and JavaScript Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum  
 
-### **Personal Projects**
-**Genealogical Family Tree** d3.js based family tree view. mongodb data source exporting to a JSON file for d3 ingestion. Customized dTree.js to allow multiple/sequential marriages and children [milleronic.com](http://milleronic.com) Work in progress\
-**Résumé Automation** GitHub action to export markdown résumé format to PDF, plain text, and JSON. Utilizes [pandoc](https://pandoc.org/) Allows versioning of custom résumés. [Résumé Template](https://github.com/m-miller/resume-template) This document was created with this process\
-**Web Application for Restaurant Employee Scheduling** MERN stack, outputs suggested weekly schedule based on employee availability and experience level. Exports suggested schedule to Google Sheet based on daily labor percentages against morning and afternoon sales projections and adjusted for past sales values. Full editing in the React frontend for employee data and restaurant needs. Dynamic algorithm for schedule creation based on employee availablity, labor costs, labor needs, and current and past sales projections. Work in progress\
-**Cat Photoblog** WordPress photoblog of my past pet cats. Custom theme. [Kitties!](http://milleronic.com/sites/kitties/)\
-**Website Password Unobfuscator** JavaScript snippet when bookmarked in a browser will show any password in a password field. Can come in handy :) [undot](https://github.com/m-miller/undot)
-
 ### **Professional Experiences**
 #### March 17, 2025 \- September 17, 2025 | Web Developer | [Indiana University](https://iu.edu/), Bloomington, Indiana (remote contract)
 
