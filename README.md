@@ -11,7 +11,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 **Tools/CLI** git CLI, npm, yarn, Bower, Composer, Grunt, Gulp, Webpack, Vite, pip, Axios, Express, Bluebird, sed, awk, scp, rsync, ssh, vi, grep, cron, etc., Shopify CLI and APIs, WP-CLI, GitHub Actions, regex, Docker, REST, SOAP\
 **Software** Adobe Creative Suite, SharePoint, Figma, Jira, GitHub, HubSpot, Salesforce, Marketo, Eloqua, Apache, Nginx, VSCode, GA4, GSC, GTM\
 **OS** CentOS, Fedora, RHEL, Ubuntu, Debian, Raspbian, MacOS, Windows\
-**CMS/EComm** WordPress, WooCommerce, Shopify, Cascade\
+**CMS/EComm** WordPress, WooCommerce, Magento, Shopify, Cascade\
 **Other Skills** SVG, CSS, and JavaScript Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum  
 
 ### **Professional Experiences**
