@@ -4,6 +4,22 @@ St. Paul, Minnesota | 651.272.8921 | [milleronic@gmail.com](mailto:milleronic@gm
 ## MERN/LAMP Full Stack Developer 
 Experienced Full Stack Developer with expertise in crafting innovative solutions that drive business growth. Adept at optimizing workflows, enhancing and automating system efficiencies, and delivering high-impact digital experiences, blending technical expertise with a creative approach to problem-solving. Passionate about continuous learning, with a strong ability to think strategically and creatively while maintaining meticulous attention to detail. Skilled, personal communicator and relationship builder who enjoys educating juniors and peers.
 
+## Websites
+### WordPress:
+- [Ecumen](https://ecumen.org)
+- [Granicus](https://granicus.com)
+- [Govloop](https://govloop.com)
+- [Raleigh Fireplace](https://www.raleighfireplace.com/)
+- [Martin Law Offices](https://www.twincitiesdefense.com/)
+- [1000 Stories Wine Locator](https://www.1000storieswines.com/locator/)
+- [Peta Store](https://shop.peta.org/)
+- [Evestar](https://evestar.com/)
+- [Kitties!](http://milleronic.com/kitties) personal site
+- [Miller Consulting](https://miller-consulting.net/) work in progress
+### Shopify:
+- [BouGear](https://bougear.com/)
+- [Merchology](https://merchology.com)
+
 ### **Technical Proficiencies**
 **Languages and markup** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS/SASS/LESS, XML, JSON, YAML, Bash/ZSH, markdown, Perl, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB\
 **Cloud Platforms** Azure App Service, Azure DevOps, Digital Ocean, Heroku\
