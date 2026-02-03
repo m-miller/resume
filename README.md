@@ -16,6 +16,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 - [Evestar](https://evestar.com/)
 - [Kitties!](http://milleronic.com/kitties) personal site
 - [Miller Consulting](https://miller-consulting.net/) work in progress
+  
 ### Shopify:
 - [BouGear](https://bougear.com/)
 - [Merchology](https://merchology.com)
