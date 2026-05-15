@@ -126,9 +126,6 @@
     "text": "-   Server administration including Bash and Python scripting, cronjobs, WP-CLI, and commandline installation of MySQL, PHP, and WordPress"
   },
   {
-    "text": "-   Installation and management of analytics software (Awstats and Piwik), for the Nursing Intranet"
-  },
-  {
     "text": "-   Mentored junior members in versioning code via git and WordPress development and best practices"
   },
   {
