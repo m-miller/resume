@@ -84,9 +84,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 - WordPress custom theme and plugin development, API and REST integration with Mayo intranet services (Active Directory, DB/2 databases, .NET and ColdFusion applications)
     
 - Server administration including Bash and Python scripting, cronjobs, WP-CLI, and commandline installation of MySQL, PHP, and WordPress
-    
-- Installation and management of analytics software (Awstats and Piwik), for the Nursing Intranet
-    
+        
 - Mentored junior members in versioning code via git and WordPress development and best practices
 
 - WordPress training for website admins and authors
