@@ -45,40 +45,13 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 
 - Chaired the Giveback Committee, an employee-managed group that coordinated and scheduled volunteer activities for Merchology employees. Collectively we volunteered over 1000 hours in 2023
 
-#### September 2021 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) | Remote
+#### March 2020 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) and [R/West](https://www.rwest.com/) and [R/West](https://www.rwest.com/) | Remote
 
 - Authored custom WordPress and WooCommerce themes, front- and back-end
     
 - WordPress plugin development
     
 - Deployments using Webistrano and GitHub Actions
-
-
-#### May 2021 \- September 2021 | Full Stack WordPress Developer, Shopify Developer | [R/West](https://www.rwest.com/) | Remote
-
-- Authored custom WordPress plugins
-    
-- Authored custom WordPress themes, front- and back-end development
-    
-- Shopify cart and admin customizer development. Custom SVG and CSS animations in the Shopify checkout for volume discount pricing
-
-
-#### March 2020 \- April 2021 | Full Stack WordPress Developer | [Midwest Dental](https://midwest-dental.com/) | Bloomington, Minnesota 
-
-- Authored custom WordPress plugins
-    
-- WordPress front- and back-end theme development for network of websites
-    
-- Front-end development work
-    
-- Server, application, and database maintenance
-   
-- Integrated and updated call center PHP application
-   
-- Coded and implemented marketing emails
-   
-- Upgraded sendgrid email security, spam filtering, and cloudflare integration
-
 
 #### June 2019 \- February 2020 | Web Developer | [Enesco](https://shop.enesco.com/), Eden Prairie, Minnesota 
 
@@ -87,7 +60,6 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 - PHP development for Shopify API data pipeline to PeopleSoft database
     
 - Multiple website maintenance
-
 
 #### April 2016 \- February 2019 | Web Developer | [Granicus](https://granicus.com/) | St. Paul, Minnesota 
 
@@ -104,7 +76,6 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 - Updated DNS records and SSL certificates as needed
     
 - Leveraged Marketo to customize front-end forms and landing pages code for the Marketing Department
-
 
 #### June 2012 \- March 2016 | WordPress Developer | [Mayo Clinic](https://www.mayoclinic.org/) Department of Nursing | Rochester, Minnesota 
 
