@@ -4,23 +4,6 @@ St. Paul, Minnesota | 651.272.8921 | [milleronic@gmail.com](mailto:milleronic@gm
 ## MERN/LAMP Full Stack Developer 
 Experienced Full Stack Developer with expertise in crafting innovative solutions that drive business growth. Adept at optimizing workflows, enhancing and automating system efficiencies, and delivering high-impact digital experiences, blending technical expertise with a creative approach to problem-solving. Passionate about continuous learning, with a strong ability to think strategically and creatively while maintaining meticulous attention to detail. Skilled, personal communicator and relationship builder who enjoys educating juniors and peers.
 
-## Websites
-### WordPress:
-- [Ecumen](https://ecumen.org)
-- [Granicus](https://granicus.com)
-- [Govloop](https://govloop.com)
-- [Raleigh Fireplace](https://www.raleighfireplace.com/)
-- [Martin Law Offices](https://www.twincitiesdefense.com/)
-- [1000 Stories Wine Locator](https://www.1000storieswines.com/locator/)
-- [Peta Store](https://shop.peta.org/)
-- [Evestar](https://evestar.com/)
-- [Kitties!](http://milleronic.com/kitties) personal site
-- [Miller Consulting](https://miller-consulting.net/) work in progress
-  
-### Shopify:
-- [BouGear](https://bougear.com/)
-- [Merchology](https://merchology.com)
-
 ### **Technical Proficiencies**
 **Languages and markup** JavaScript, TypeScript, Python, PHP, Liquid, HTML, CSS/SASS/LESS, XML, JSON, YAML, Bash/ZSH, markdown, Perl, MongoDB, MySQL/MariaDB, SVG, GraphQL, VB\
 **Cloud Platforms** Azure App Service, Azure DevOps, Digital Ocean, Heroku\
@@ -42,7 +25,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 
 - Extensive use of github actions and CI/CD deployment automations
 
-#### March 2024 \- September 2024 | Lead Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota 
+#### April 2022 \- September 2024 | Lead Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota 
 
 - Custom Shopify theme development for bespoke storefronts, including [BouGear](https://bougear.com)
 
@@ -61,18 +44,6 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 - Regular team standups and mentoring of developers
 
 - Chaired the Giveback Committee, an employee-managed group that coordinated and scheduled volunteer activities for Merchology employees. Collectively we volunteered over 1000 hours in 2023
-
-
-#### April 2022 \- March 2024 | Senior Web Developer | [Merchology](https://www.merchology.com), Plymouth, Minnesota 
-
-- Custom Shopify theme development
-    
-- Code maintenance and debugging
-    
-- Development of new internal features for the sales department and external customers
-  
-- Improved internal processes by implementing a GitHub code repository and GitHub Actions for the Merchandising Department's code updates (pricing scripts, product tag management, global variables)
-
 
 #### September 2021 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) | Remote
 
