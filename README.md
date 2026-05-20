@@ -45,15 +45,15 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 
 - Chaired the Giveback Committee, an employee-managed group that coordinated and scheduled volunteer activities for Merchology employees. Collectively we volunteered over 1000 hours in 2023
 
-#### March 2020 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) and [R/West](https://www.rwest.com/) and [R/West](https://www.rwest.com/) | (remote contract roles)
+#### March 2020 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) and [R/West](https://www.rwest.com/) | (2 year-long remote contract roles)
 
 - Authored custom WordPress and WooCommerce themes, front- and back-end
     
-- WordPress plugin development
+- WordPress plugin and theme development, shopify theme development
     
 - Deployments using Webistrano and GitHub Actions
 
-#### June 2019 \- February 2020 | Web Developer | [Enesco](https://shop.enesco.com/), Eden Prairie, Minnesota 
+#### June 2019 \- February 2020 | Web Developer | [Enesco](https://shop.enesco.com/), Eden Prairie, Minnesota (contract role)
 
 - Shopify ecommerce theme customization for multiple sites
     
