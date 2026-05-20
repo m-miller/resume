@@ -57,9 +57,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 
 - Shopify ecommerce theme customization for multiple sites
     
-- PHP development for Shopify API data pipeline to PeopleSoft database
-    
-- Multiple website maintenance
+- PHP development for Shopify API data pipeline to PeopleSoft database. Multiple website maintenance
 
 #### April 2016 \- February 2019 | Web Developer | [Granicus](https://granicus.com/) | St. Paul, Minnesota 
 
@@ -85,6 +83,4 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
     
 - Server administration including Bash and Python scripting, cronjobs, WP-CLI, and commandline installation of MySQL, PHP, and WordPress
         
-- Mentored junior members in versioning code via git and WordPress development and best practices
-
-- WordPress training for website admins and authors
+- Mentored junior members in versioning code via git and WordPress development and best practices. WordPress training for website admins and authors
