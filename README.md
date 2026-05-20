@@ -15,7 +15,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 **Other Skills** SVG, CSS, and JavaScript Animation, a11y/WCAG compliant coding practices, clear communicator, Agile/Scrum  
 
 ### **Professional Experiences**
-#### March 17, 2025 \- September 17, 2025 | Web Developer | [Indiana University](https://iu.edu/), Bloomington, Indiana (remote contract)
+#### March 17, 2025 \- September 17, 2025 | Web Developer | [Indiana University](https://iu.edu/), Bloomington, Indiana (remote 6 month contract)
 
 - Developed bespoke reusable extensions for IU website(s) CMS (Cascade) for frontend display, using Velocity, HTML/CSS, XML, PHP, JavaScript, MS-SDK, MicroSoft Graph API, custom css for Highcharts animations
 
@@ -45,7 +45,7 @@ Experienced Full Stack Developer with expertise in crafting innovative solutions
 
 - Chaired the Giveback Committee, an employee-managed group that coordinated and scheduled volunteer activities for Merchology employees. Collectively we volunteered over 1000 hours in 2023
 
-#### March 2020 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) and [R/West](https://www.rwest.com/) and [R/West](https://www.rwest.com/) | Remote
+#### March 2020 \- February 2022 | Full Stack WordPress Developer | [PeTA Foundation](https://peta.org) and [R/West](https://www.rwest.com/) and [R/West](https://www.rwest.com/) | (remote contract roles)
 
 - Authored custom WordPress and WooCommerce themes, front- and back-end
     
